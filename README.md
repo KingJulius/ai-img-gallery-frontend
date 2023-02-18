@@ -1,7 +1,10 @@
 # AI Generated Images Gallery
 > This is my AI generated image gallery developed using the MERN stack.
 
-![Home](/src/assets/home.png)
+
+<img src="/src/assets/home.png" alt="Home" > 
+<img src="/src/assets/create-post.png" alt="Create Post" >
+
 
 ## Features
 
