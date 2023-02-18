@@ -29,6 +29,10 @@
 
 - [Repo](https://github.com/KingJulius/ai-img-gallery-backend)
 
+## Additional Files to include for  sign up functionality
+
+- [Gist](https://gist.github.com/KingJulius/2b56c59ffcaea87d3b6a288ed4e6b3cf)
+
 ## Author
 
 :man: **Julius Dsouza**
@@ -37,6 +41,7 @@
 - [LinkedIn](https://www.linkedin.com/in/julius-dsouza/)
 
 ## 🤝 Contributing
+
 - Contributions, issues, and feature requests are welcome!
 - Feel free to check the [issues page](https://github.com/KingJulius/ai-img-gallery-frontend/issues).
 
