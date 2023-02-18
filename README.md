@@ -21,9 +21,24 @@
 - Express.js
 - Node.js
 
+## Live Demo
+
+- [Live Demo](https://ai-img-app-zemc.onrender.com/)
+
+## Backend Code
+
+- [Repo](https://github.com/KingJulius/ai-img-gallery-backend)
+
 ## Author
 
 :man: **Julius Dsouza**
 
 - [GitHub](https://github.com/KingJulius)
 - [LinkedIn](https://www.linkedin.com/in/julius-dsouza/)
+
+## 🤝 Contributing
+- Contributions, issues, and feature requests are welcome!
+- Feel free to check the [issues page](https://github.com/KingJulius/ai-img-gallery-frontend/issues).
+
+## Show your support
+Give a ⭐ if you like this project!
